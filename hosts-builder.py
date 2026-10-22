@@ -88,7 +88,7 @@ def combine_hosts_from_urls():
         "https://www.usom.gov.tr/url-list.txt",
         "https://energized.pro/mirror/whotracks-me.txt",
         "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt",
-        "https://zonefiles.io/f/compromised/domains/live/",
+        "https://netapi.com/zf-api/f/compromised/domains/live/",
         "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
         "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts",
         "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts",
